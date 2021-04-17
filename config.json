@@ -1,0 +1,8 @@
+{
+    "TOKEN": "Token",
+    "PREFIX": ".",
+    "DBCONNECTION": "mongodb+srv://gcknroot:<password>@cluster0.hbml0.mongodb.net/<dbname>?authSource=admin&replicaSet=atlas-yxg3lg-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+    "DEFAULTSETTINGS": {
+        "prefix": "."
+    }
+}
